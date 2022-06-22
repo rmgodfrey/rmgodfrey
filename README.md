@@ -1,7 +1,7 @@
 ## Hi 👋, I'm Ross (he/him)
 ### An early-career full-stack web developer based in Oslo
 
-- 🔭 I’m currently working on **[ChoicePoint](https://github.com/GeoniX404/choicepoint)**, a web app for people who have trouble making decisions.
+- ✏️ I’m currently working on **[ChoicePoint](https://github.com/GeoniX404/choicepoint)**, a web app for people who have trouble making decisions.
 
 - 🎓 I recently completed **[Le Wagon](https://www.lewagon.com)’s 9-week web development bootcamp**.
 
