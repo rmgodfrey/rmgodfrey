@@ -1,4 +1,4 @@
-## Hi 👋, I'm Ross (he/him)
+## Hi 👋, I’m Ross (he/him)
 ### An early-career full-stack web developer based in Oslo
 
 - ✏️ I’m currently working on **[ChoicePoint](https://github.com/GeoniX404/choicepoint)**, a web app for people who have trouble making decisions.
