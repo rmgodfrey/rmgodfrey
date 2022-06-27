@@ -5,9 +5,11 @@
 
 - 🎓 I recently completed **[Le Wagon](https://www.lewagon.com)’s 9-week web development bootcamp**.
 
-- 📫 Reach me at **ross.m.godfrey@gmail.com**
+- 📫 Reach me at **ross.m.godfrey@gmail.com**.
 
 - <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn logo" height="20" width="20" /> Connect with me on **[LinkedIn](https://linkedin.com/in/rossmgodfrey)**.
+
+- 💼 View my portfolio at **[Troopl](https://troopl.com/rmgodfrey)**.
 
 ### Languages and Tools:
 <p align="left">  
